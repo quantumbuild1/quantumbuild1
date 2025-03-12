@@ -29,4 +29,4 @@ Nova Engineering is a fully digital engineering firm providing end-to-end electr
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/NovaEngineering.git
+   git clone https://github.com/quantumbuild1/NovaEngineering.git
